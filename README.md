@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dikendev
 - 👀 I’m interested in Front-end devloper
 - 🌱 I’m currently learning Html, Css and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 <!---- 📫 How to reach me > whayspa
 
 
