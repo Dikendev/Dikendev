@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Diego Guimarães</h1>
 <h3 align="left">Programador "self taught" estudando front end</h3>
 
-🌱 I’m currently learning **Javascript and |Java**
+🌱 I’m currently learning **Javascript and Java**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
