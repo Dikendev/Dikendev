@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋, I'm Diego Guimarães</h1>
+<h3 align="left">“I am a slow walker, but I never walk back.” ― Abraham Lincoln</h3>
 <h3 align="left">Programador "self taught" estudando front end</h3>
 
 🌱 I’m currently learning **Javascript and Java**
