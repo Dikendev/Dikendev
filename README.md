@@ -3,7 +3,7 @@
 <h3 align="left">“The mind, once stretched by a new idea, never returns to its original dimensions.” <br>
 ― Ralph Waldo Emerson
 </h3>
-<h3 align="left">"Self taught"</h3>
+<h3 align="left">"Self taught programmer"</h3>
 
 🌱 I’m currently learning **Javascript and Java**
 
