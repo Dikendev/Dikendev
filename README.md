@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋, I'm Diego Guimarães</h1>
+<h3 align="left">Estudando Java fullstack pelo Projeto @devstoblu </h3>
 <h3 align="left">“I am a slow walker, but I never walk back.” <br> ― Abraham Lincoln</h3>
 <h3 align="left">“The mind, once stretched by a new idea, never returns to its original dimensions.” <br>
 ― Ralph Waldo Emerson
