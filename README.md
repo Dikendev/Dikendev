@@ -7,7 +7,26 @@
 </h3>
 <h3 align="left">"Self taught programmer"</h3>
 
-🌱 I’m currently learning **Javascript and Java**
+# About ME 💬 :
+
+### - Tenho 27 anos Aprendendo Front-end devlopment e Java.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ JavaScript
+- ✨ Java
+
+### - Hobbies : 
+- ✨ Livros: Mais esperto que o Diabo, O manuscrito Original by Napolen Hill
+- ✨ Watching Marvel Movies
+- ✨ Melhor pianista da minha rua 😊
+- ✨ Vou ser maior que o Paulo Muzy 🪓
+
+</br>
+</br>
+</br>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
