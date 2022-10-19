@@ -24,12 +24,10 @@
 - ✨ Vou ser maior que o Paulo Muzy 🪓
 
 </br>
-</br>
-</br>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://www.instagram.com/diken.developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diken.developer/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-kennedy-guimar%c3%a3es-barros-107777236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-kennedy-guimar%c3%a3es-barros-107777236/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:19404053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19404053" height="30" width="40" /></a>
 </p>
@@ -40,8 +38,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"        height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"          height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"          height="40"/> 
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap"            width="40" height="40"/> 
+  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"            width="40" height="40"/> 
   </a> 
