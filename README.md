@@ -1,20 +1,20 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Diego Guimarães </h1>
 
 <h3 align="left">Aluno Desenvolvedor web fullstack pelo Projeto @devstoblu </h3>
-<h3 align="left">“I am a slow walker, but I never walk back.” <br> ― Abraham Lincoln</h3>
 <h3 align="left">“The mind, once stretched by a new idea, never returns to its original dimensions.” <br>
 ― Ralph Waldo Emerson
 </h3>
-<h3 align="left">"Self taught programmer"</h3>
+<p align="left">"Self taught programmer"</p>
 
 # About ME 💬 :
 
-### - Tenho 27 anos Desenvolvedor web full Stack.
+### - Desenvolvedor web full Stack.
+- Ajudando a comunidade traduzindo este repositório <a href = "https://github.com/Dikendev/30-Days-Of-JavaScript">30-Days-Of-JavaScript</a>, aqui você pode aprender tudo que precisa saber para começar a desenvolver em JavaScript. 
 
 <img hight="550" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ JavaScript
+- ✨ Reactjs
 - ✨ Java
 
 ### - Hobbies : 
