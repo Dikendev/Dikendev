@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-### - Desenvolvedor web full Stack.
+### - Desenvolvedor web Front end Stack.
 - Ajudando a comunidade traduzindo este repositório <a href = "https://github.com/Dikendev/30-Days-Of-JavaScript">30-Days-Of-JavaScript</a>, aqui você pode aprender tudo que precisa saber para começar a desenvolver em JavaScript. 
 
 <img hight="550" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
