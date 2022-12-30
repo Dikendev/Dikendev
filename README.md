@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Diego Guimarães </h1>
 
 <h3 align="left">Aluno Desenvolvedor fullstack pelo Projeto @devstoblu </h3>
-<h3 align="left">A sede de aprender e descobrir algo novo é o que me motiva todos os dias a estudar, seja estudando uma linguagem de programação minha paixão, ou filosofia pelo qual também sou fascinado</h3>
+<h3 align="left">A sede de aprender e descobrir algo novo é o que me motiva todos os dias a estudar, seja estudando uma linguagem de programação minha paixão, e tudo relacionado a Inteligência artificial Web3 ou aprendendo uma nova skill</h3>
 <h3 align="left">“The mind, once stretched by a new idea, never returns to its original dimensions.” <br>
 ― Ralph Waldo Emerson
 </h3>
