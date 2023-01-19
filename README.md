@@ -19,12 +19,13 @@
 - ✨ Java
 
 ### - Hobbies : 
-- ✨ Livros: Mais esperto que o Diabo, O manuscrito Original by Napolen Hill
-- ✨ Watching Marvel Movies
+- ✨ Livros: 
+  -  Head First Java (Kathy Sierra, Bert Bates)
+  -  Java The Complete Reference, Eleventh Edition (Herbert Schildt)
+  -  Mais esperto que o Diabo, O manuscrito Original by Napolen Hill
+- ✨ Jogar video games
 - ✨ Melhor pianista da minha rua 😊
-- ✨ Vou ser maior que o Paulo Muzy 🪓
 
-</br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -38,6 +39,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19404053" height="30" width="40" />
   </a>
 </p>
+</br>
 
 <h3 align="center">Linguagens</h3>
 <table align="center">
