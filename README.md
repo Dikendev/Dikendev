@@ -39,45 +39,130 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="60" height="60"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  </a>   
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="60" height="52"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="mysql" width="60" height="45"/>
-   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-  </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
-  </a> 
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
-  </a>
-</p>
+<h3 align="center">Linguagens</h3>
+<table align="center">
+  <tr>
+     <td align="center" width="96">
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML 5
+    </td>
+     <td align="center" width="96">
+       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="65" height="65" alt="Css 3" />
+        </a>
+      <br>Css 3
+    </td> 
+    <td align="center" width="96">
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> 
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript ES6"/>
+        </a>
+      <br>JavaScript ES6
+    </td>
+    <td align="center" width="96">
+       <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+        </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="Java" />
+        </a>
+      <br>Mysql
+    </td>
+    </tr>
+  </table>
+
+<h3 align="center">Frameworks e Bibliotecas</h3>
+<table align="center">
+<tr>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React js" />
+      </a>
+      <br>React js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+   <td align="center" width="96">
+        <a href="https://pt.wikipedia.org/wiki/REST" target="_blank" rel="noreferrer">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Java" />
+        </a>
+      <br>Rest api
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+   <td align="center" width="96">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="Redux" />
+      </a>  
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" alt="Spring" />
+      </a>  
+      <br>Spring
+    </td>
+  <td align="center" width="96">
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
+      </a>  
+      <br>Sass
+    </td>
+</tr>
+</table>
+
+<h3 align="center">Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center"  width="96">
+     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> 
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="Intellij" />
+     </a>
+     <br>Intellij
+    </td>
+    <td align="center"  width="96">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code"/>
+     </a>
+     <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+     <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+  </tr> 
+</table>  
+</br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikendev&show_icons=true&locale=en&layout=compact" alt="dikendev" /></p>
 
