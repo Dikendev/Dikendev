@@ -143,6 +143,10 @@
      <br>VS Code
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50" height="50" alt="Postman" />
       <br>Postman
     </td>
