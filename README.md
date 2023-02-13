@@ -17,6 +17,7 @@
 ### - Learning :
 - ✨ Spring
 - ✨ Java
+- ✨ Angular
 
 ### - Hobbies : 
 - ✨ Livros: 
