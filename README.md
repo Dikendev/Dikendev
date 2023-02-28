@@ -1,8 +1,8 @@
 <h1 align="center"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Sou o Diego Kennedy </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikendev&label=Profile%20views&color=0e75b6&style=flat" alt="dikendev" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=8BF72E&width=435&lines=Dev+fullstack+%40devs2blu)](https://git.io/typing-svg)
 
-<h2 align="left">Desenvolvedor fullstack @devs2blu </h3>
 <h3 align="left">A sede de aprender e descobrir algo novo é o que me motiva todos os dias, seja aprendendo uma linguagem de programação nova e tudo relacionado a Inteligência artificial ou aprendendo uma nova skill</h3>
 <h3 align="left">"A mente, uma vez expandida por uma nova ideia, nunca volta às suas dimensões originais."
 ― Ralph Waldo Emerson
@@ -47,9 +47,12 @@
   </a>
 </p>
 </br>
+<div align="center">
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-<h3 align="center">Linguagens</h3>
-<table align="center">
+ <h2> <strong> 📚 Linguagens </strong> <img src="./assets/borderseparator.gif"/> </h2>
+<table>
   <tr>
      <td align="center" width="96">
       <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -87,6 +90,7 @@
     </td>
     </tr>
   </table>
+ </div>
 
 <h3 align="center">Frameworks e Bibliotecas</h3>
 <table align="center">
