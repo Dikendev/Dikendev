@@ -8,9 +8,8 @@
 ― Ralph Waldo Emerson
 </h3>
 <p align="left">"Programador autodidata"
-
-
 </p>
+
 
 </br>
 
