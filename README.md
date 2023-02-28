@@ -1,4 +1,6 @@
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Diego Guimarães </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikendev&label=Profile%20views&color=0e75b6&style=flat" alt="dikendev" /> </p>
+
 
 <h3 align="left">Desenvolvedor fullstack @devs2blu </h3>
 <h3 align="left">A sede de aprender e descobrir algo novo é o que me motiva todos os dias, seja aprendendo uma linguagem de programação nova e tudo relacionado a Inteligência artificial ou aprendendo uma nova skill</h3>
@@ -7,9 +9,11 @@
 </h3>
 <p align="left">"Self taught programmer"</p>
 
+</br>
+
 # About ME 💬 :
 ### - Working on :
-- Ajudando a comunidade traduzindo este repositório <a href = "https://github.com/Dikendev/30-Days-Of-JavaScript">30-Days-Of-JavaScript</a>, aqui você pode aprender tudo que precisa saber para começar a desenvolver em JavaScript. 
+- Traduzindo o repositório <a href = "https://github.com/Dikendev/30-Days-Of-JavaScript">30-Days-Of-JavaScript</a>,Que tal se tornar um mestre em JavaScript? aqui você tem tudo o que precisa para começar a desenvolver com essa poderosa linguagem de programação! E o melhor de tudo é que agora você pode acessá-lo em português!
 - New projects comming soon... 🥰🤩
 
 <img hight="550" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
@@ -171,5 +175,5 @@
 </table>  
 </br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikendev&show_icons=true&locale=en&layout=compact" alt="dikendev" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikendev&show_icons=true&locale=en&" alt="dikendev" /></p>
 
