@@ -48,10 +48,9 @@
 </p>
 </br>
 <div align="center">
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
- <h2> <strong> 📚 Linguagens </strong> <img src="./assets/borderseparator.gif"/> </h2>
+
+ <h2> <strong> 📚 Linguagens </strong></h2>
 <table>
   <tr>
      <td align="center" width="96">
@@ -90,96 +89,97 @@
     </td>
     </tr>
   </table>
- </div>
 
-<h3 align="center">Frameworks e Bibliotecas</h3>
-<table align="center">
-<tr>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react js" />
-      </a>
-      <br>React js
-    </td>
-   <td align="center" width="96">
-        <a href="https://pt.wikipedia.org/wiki/REST" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="rest api" />
-        </a>
-      <br>Rest api
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-   <td align="center" width="96">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" alt="Redux" />
-      </a>  
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
-      </a>  
-      <br>Spring
-    </td>
-  <td align="center" width="96">
-      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass" />
-      </a>  
-      <br>Sass
-    </td>
-</tr>
-</table>
 
-<h3 align="center">Ferramentas</h3>
-<table align="center">
+  <h2> <strong> Frameworks e Bibliotecas </strong></h2>
+  <table>
   <tr>
-    <td align="center"  width="96">
-     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="Intellij" />
-     </a>
-     <br>Intellij
-    </td>
-    <td align="center"  width="96">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code"/>
-     </a>
-     <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50" height="50" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" />
-      <br>FireBase
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
-      <br>GitHub
-    </td>
+      <td align="center" width="96">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react js" />
+        </a>
+        <br>React js
+      </td>
      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50" height="50" alt="Git" />
-      </a>
-      <br>Git
-    </td>
+          <a href="https://pt.wikipedia.org/wiki/REST" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="rest api" />
+          </a>
+        <br>Rest api
+      </td>
+      <td align="center" width="96">
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
+        </a>
+        <br>Bootstrap
+      </td>
      <td align="center" width="96">
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-  </tr> 
-</table>  
-</br>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" alt="Redux" />
+        </a>  
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
+        </a>  
+        <br>Spring
+      </td>
+    <td align="center" width="96">
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass" />
+        </a>  
+        <br>Sass
+      </td>
+  </tr>
+  </table>
+
+  <h2> <strong> Ferramentas </strong></h2>
+  <table>
+    <tr>
+      <td align="center"  width="96">
+       <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> 
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="Intellij" />
+       </a>
+       <br>Intellij
+      </td>
+      <td align="center"  width="96">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code"/>
+       </a>
+       <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50" height="50" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" />
+        <br>FireBase
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" />
+        <br>GitHub
+      </td>
+       <td align="center" width="96">
+        <a href="#git" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50" height="50" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+       <td align="center" width="96">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+        </a>
+        <br>Bash
+      </td>
+    </tr> 
+  </table>  
+  </br>
+</div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikendev&show_icons=true&locale=en&" alt="dikendev" /></p>
 
