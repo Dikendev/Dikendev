@@ -1,29 +1,32 @@
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Diego Guimarães </h1>
+<h1 align="center"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Sou o Diego Kennedy </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikendev&label=Profile%20views&color=0e75b6&style=flat" alt="dikendev" /> </p>
 
 
-<h3 align="left">Desenvolvedor fullstack @devs2blu </h3>
+<h2 align="left">Desenvolvedor fullstack @devs2blu </h3>
 <h3 align="left">A sede de aprender e descobrir algo novo é o que me motiva todos os dias, seja aprendendo uma linguagem de programação nova e tudo relacionado a Inteligência artificial ou aprendendo uma nova skill</h3>
-<h3 align="left">“The mind, once stretched by a new idea, never returns to its original dimensions.” <br>
+<h3 align="left">"A mente, uma vez expandida por uma nova ideia, nunca volta às suas dimensões originais."
 ― Ralph Waldo Emerson
 </h3>
-<p align="left">"Self taught programmer"</p>
+<p align="left">"Programador autodidata"
+
+
+</p>
 
 </br>
 
-# About ME 💬 :
-### - Working on :
+# Sobre mim 💬 :
+### - Projetos :
 - Traduzindo o repositório <a href = "https://github.com/Dikendev/30-Days-Of-JavaScript">30-Days-Of-JavaScript</a>,Que tal se tornar um mestre em JavaScript? aqui você tem tudo o que precisa para começar a desenvolver com essa poderosa linguagem de programação! E o melhor de tudo é que agora você pode acessá-lo em português!
-- New projects comming soon... 🥰🤩
+- Novos projeto em breve... 🥰🤩
 
 <img hight="550" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
+### - Aprendendo :
 - ✨ Spring
 - ✨ Java
 - ✨ Angular
 
-### - Hobbies : 
+### - Passatempos : 
 - ✨ Livros: 
   -  Head First Java (Kathy Sierra, Bert Bates)
   -  Java The Complete Reference, Eleventh Edition (Herbert Schildt)
@@ -32,7 +35,7 @@
 - ✨ Melhor pianista da minha rua 😊
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
   <a href="https://www.instagram.com/diken.developer/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diken.developer/" height="30" width="40" />
@@ -128,7 +131,7 @@
 </tr>
 </table>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Ferramentas</h3>
 <table align="center">
   <tr>
     <td align="center"  width="96">
