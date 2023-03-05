@@ -94,6 +94,12 @@
   <h2> <strong> Frameworks e Bibliotecas </strong></h2>
   <table>
   <tr>
+    <td align="center" width="96">
+        <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
+        </a>
+        <br>Angular
+      </td>
       <td align="center" width="96">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
           <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react js" />
