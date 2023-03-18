@@ -106,34 +106,16 @@
         <br>Angular
       </td>
       <td align="center" width="96">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react js" />
-        </a>
-        <br>React js
-      </td>
-     <td align="center" width="96">
-          <a href="https://pt.wikipedia.org/wiki/REST" target="_blank" rel="noreferrer">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="rest api" />
-          </a>
-        <br>Rest api
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
+        </a>  
+        <br>Spring
       </td>
       <td align="center" width="96">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
         </a>
         <br>Bootstrap
-      </td>
-     <td align="center" width="96">
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" alt="Redux" />
-        </a>  
-        <br>Redux
-      </td>
-      <td align="center" width="96">
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
-        </a>  
-        <br>Spring
       </td>
     <td align="center" width="96">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
