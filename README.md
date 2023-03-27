@@ -80,7 +80,13 @@
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> 
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript ES6"/>
         </a>
-      <br>JavaScript ES6
+      <br>JavaScript
+    </td>
+     <td align="center" width="96">
+       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript"/>
+        </a>
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
@@ -99,17 +105,29 @@
   <h2> <strong> Frameworks e Bibliotecas </strong></h2>
   <table>
   <tr>
-    <td align="center" width="96">
+      <td align="center" width="96">
         <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
         </a>
         <br>Angular
       </td>
       <td align="center" width="96">
+        <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="ReactJs" />
+        </a>
+        <br>ReactJs
+      </td>
+      <td align="center" width="96">
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
         </a>  
         <br>Spring
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="RestAPI" />
+        </a>  
+        <br>RestAPI
       </td>
       <td align="center" width="96">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
