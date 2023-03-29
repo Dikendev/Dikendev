@@ -55,112 +55,134 @@
 <div align="center">
 
 
- <h2> <strong> 📚 Front-End </strong></h2>
+<h2> <strong> 📚 Front-End </strong></h2>
 <table>
   <tr>
      <td align="center" width="96">
-        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML 5" />
-        </a>
-        <br>HTML 5
-     </td>
-     <td align="center" width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="Css 3" />
-        </a>
-        <br>Css 3
-     </td> 
-     <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript ES6"/>
-        </a>
-        <br>JavaScript
-     </td>
-     <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript"/>
-        </a>
-        <br>TypeScript
-     </td>
-  </tr>
-  <tr>
-     <td align="center" width="96">
         <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
         </a>
         <br>Angular
      </td>
      <td align="center" width="96">
         <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="ReactJs" />
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="ReactJs" />
         </a>
         <br>ReactJs
-     </td>  
+     </td>
+     <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript ES6"/>
+        </a>
+        <br>JavaScript
+     </td>
+  </tr>
+  <tr>
+     <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript"/>
+        </a>
+        <br>TypeScript
+     </td>
      <td align="center" width="96">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
         </a>
         <br>Bootstrap
      </td>
      <td align="center" width="96">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass" />
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass" />
         </a>  
         <br>Sass
      </td>
   </tr>
+  <tr aligh="right" >
+     <td align="center" width="96">
+        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML 5" />
+        </a>
+        <br>HTML 5
+     </td>
+     <td align="center" width="96">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="Css 3" />
+        </a>
+        <br>Css 3
+     </td>
+     <td>
+     </td>
+  </tr>
 </table>
 
-  <h2> <strong> 📚 Back-End </strong></h2>
-  <table>
+<h2> <strong> 📚 Back-End </strong></h2>
+<table>
   <tr>
      <td align="center" width="96">
-       <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
+        <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
         </a>
       <br>Java
-    </td>
+     </td>
      <td align="center" width="96">
-       <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
         </a>
       <br>Python
-    </td>
-      <td align="center" width="96">
+     </td>
+     <td align="center" width="96">
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
         </a>  
         <br>Spring
-      </td>
-      <td align="center" width="96">
+     </td>
+  </tr>
+  <tr>
+     <td align="center" width="96">
         <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" alt="RestAPI" />
         </a>  
         <br>RestAPI
-      </td>
+     </td>
+        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+     </td>
+     <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="Mysql" />
+        </a>
+        <br>Mysql
+     </td>
   </tr>
-  </table>
+</table>
 
-  <h2> <strong> Ferramentas </strong></h2>
-  <table>
-    <tr>
-      <td align="center"  width="96">
+<h2> <strong> Ferramentas </strong></h2>
+<table>
+  <tr>
+     <td align="center"  width="96">
        <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> 
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="Intellij" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="Intellij" />
        </a>
        <br>Intellij
-      </td>
-      <td align="center"  width="96">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code"/>
+     </td>
+     <td align="center"  width="96">
+       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code"/>
        </a>
        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
+     </td>
+     <td align="center" width="96">
+       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker" />
+       <br>Docker
+       </a>
+     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50" height="50" alt="Postman" />
         <br>Postman
       </td>
@@ -168,31 +190,22 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" />
         <br>FireBase
       </td>
-       <td align="center" width="96">
+      <td align="center" width="96">
         <a href="#git" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="50" height="50" alt="Git" />
         </a>
         <br>Git
       </td>
-       <td align="center" width="96">
+ <!-- <td align="center" width="96">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
         </a>
         <br>Bash
       </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="Mysql" />
-        </a>
-      <br>Mysql
-    </td>
-    </tr> 
-  </table>  
-  </br>
+      -->
+  </tr> 
+</table>  
+</br>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikendev&show_icons=true&locale=en&" alt="dikendev" /></p>
