@@ -32,6 +32,8 @@
   - <a href = "https://www.amazon.com.br/Java-Complete-Reference-Herbert-Schildt/dp/1260440230/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=E1DFFOJLWO6O&keywords=Java+The+Complete+Reference%2C+Eleventh+Edition&qid=1678073323&sprefix=java+the+complete+reference+eleventh+edition%2Caps%2C199&sr=8-1">></a> Java The Complete Reference, Eleventh Edition (Herbert Schildt)
 
   - <a href = "https://www.amazon.com.br/Spring-Action-Sixth-Craig-Walls/dp/1617297577/ref=asc_df_1617297577/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=6640713608588846521&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102327&hvtargid=pla-1222916079344&psc=1">></a> Spring in Action, Sixth Edition (Craig Walls)
+  
+   - <a href = "https://www.amazon.com/Full-Stack-Development-Spring-Boot-Angular/dp/180324321X">></a> Spring Boot and Angular (Devlin Basilan Duldulao, Seiji Ralph Villafranca)
  
   - <a href = "https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12907842868347755049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102327&hvtargid=pla-435472505264&psc=1">></a> Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin, Michael C. Feathers, Timothy R. Ottinger)
   
