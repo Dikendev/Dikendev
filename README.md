@@ -135,7 +135,7 @@
      </td>
      <td align="center" width="96">
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="50" height="50" alt="Spring" />
         </a>  
         <br>Spring
      </td>
@@ -147,17 +147,35 @@
         </a>  
         <br>RestAPI
      </td>
-        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+    <td align="center" width="96">
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJs" />
         </a>
-        <br>PostgreSQL
+        <br>NestJs
      </td>
      <td align="center" width="96">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="Mysql" />
         </a>
         <br>Mysql
+     </td>
+  </tr>
+  <tr>
+     <td align="center" width="96">
+        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+        </a>  
+        <br>MongoDB
+     </td>
+     <td align="center" width="96">
+        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
+          <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+     </td>
+     <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        </a>
      </td>
   </tr>
 </table>
@@ -168,13 +186,12 @@
      <td align="center"  width="96">
        <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="Intellij" />
-       </a>
        <br>Intellij
+       </a>
      </td>
      <td align="center"  width="96">
        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50" alt="VS Code"/>
-       </a>
        <br>VS Code
      </td>
      <td align="center" width="96">
