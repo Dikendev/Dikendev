@@ -1,3 +1,4 @@
+<img src="./assets/borderseparator.gif" alt="dikendev" /> 
 <h1 align="center"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Sou o Diego Kennedy </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikendev&label=Profile%20views&color=0e75b6&style=flat" alt="dikendev" /> </p>
 
@@ -229,4 +230,4 @@
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikendev&show_icons=true&locale=en&" alt="dikendev" /></p>
-
+<img src="./assets/borderseparator.gif" alt="dikendev" /> 
