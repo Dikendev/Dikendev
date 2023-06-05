@@ -4,14 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=8BF72E&width=435&lines=Dev+fullstack+%40devs2blu)](https://git.io/typing-svg)
 
-<h3 align="left">A sede de aprender e descobrir algo novo é o que me motiva todos os dias, seja aprendendo uma linguagem de programação nova e tudo relacionado a Inteligência artificial ou aprendendo uma nova skill</h3>
-<h3 align="left">"A mente, uma vez expandida por uma nova ideia, nunca volta às suas dimensões originais."
-― Ralph Waldo Emerson
-</h3>
-<p align="left">"Programador autodidata"
-</p>
-
-
 </br>
 
 # Sobre mim 💬 :
