@@ -2,8 +2,7 @@
 <h1 align="center"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Sou o Diego Kennedy </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikendev&label=Profile%20views&color=0e75b6&style=flat" alt="dikendev" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=8BF72E&width=435&lines=Dev+fullstack+%40devs2blu)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </br>
 
 # Sobre mim 💬 :
