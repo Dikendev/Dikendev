@@ -12,12 +12,6 @@
 
 <img hight="550" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Aprendendo :
-- ✨ NestJs
-- ✨ Spring boot 3
-- ✨ Java 20
-- ✨ Angular 13
-
 ### - Passatempos : 
 - ✨ Livros: 
   -  <a href = "https://www.amazon.com.br/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_2?adgrpid=132213015830&gclid=CjwKCAiAmJGgBhAZEiwA1JZoljy_DzHRGUyevS_j8HninvjuAfJrye0xew0TmlgS4zz09xI2JB6VPhoCqWoQAvD_BwE&hvadid=552235398409&hvdev=c&hvlocphy=9102327&hvnetw=g&hvqmt=e&hvrand=2827023926750463463&hvtargid=kwd-161529502&hydadcr=14662_10954484&keywords=head+first+java&qid=1678073043&sr=8-2&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678">></a> Head First Java (Kathy Sierra, Bert Bates)
