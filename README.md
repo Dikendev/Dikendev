@@ -133,23 +133,29 @@
         </a>  
         <br>RestAPI
      </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJs" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJs" />
         </a>
         <br>NestJs
      </td>
+     <td align="center" width="96">
+        <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
+          <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+        </a>
+        <br>Redis
+     </td>
+  </tr>
+  <tr>
      <td align="center" width="96">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="Mysql" />
         </a>
         <br>Mysql
      </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
         <a href="https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
         </a>  
         <br>MongoDB
      </td>
@@ -158,10 +164,6 @@
           <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
         </a>
         <br>PostgreSQL
-     </td>
-     <td align="center" width="96">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        </a>
      </td>
   </tr>
 </table>
