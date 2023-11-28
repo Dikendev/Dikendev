@@ -5,28 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </br>
 
-# Sobre mim 💬 :
-### - Projetos :
-- Traduzindo o repositório <a href = "https://github.com/Dikendev/30-Days-Of-JavaScript">30-Days-Of-JavaScript</a>. Que tal se tornar um mestre em JavaScript? aqui você tem tudo o que precisa para começar a desenvolver com essa poderosa linguagem de programação! E o melhor de tudo é que agora você pode acessá-lo em português!
-- Novos projeto em breve... 🥰🤩
-
-<img hight="550" width="450" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Passatempos : 
-- ✨ Livros: 
-  -  <a href = "https://www.amazon.com.br/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_2?adgrpid=132213015830&gclid=CjwKCAiAmJGgBhAZEiwA1JZoljy_DzHRGUyevS_j8HninvjuAfJrye0xew0TmlgS4zz09xI2JB6VPhoCqWoQAvD_BwE&hvadid=552235398409&hvdev=c&hvlocphy=9102327&hvnetw=g&hvqmt=e&hvrand=2827023926750463463&hvtargid=kwd-161529502&hydadcr=14662_10954484&keywords=head+first+java&qid=1678073043&sr=8-2&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678">></a> Head First Java (Kathy Sierra, Bert Bates)
-  
-  - <a href = "https://www.amazon.com.br/Java-Complete-Reference-Herbert-Schildt/dp/1260440230/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=E1DFFOJLWO6O&keywords=Java+The+Complete+Reference%2C+Eleventh+Edition&qid=1678073323&sprefix=java+the+complete+reference+eleventh+edition%2Caps%2C199&sr=8-1">></a> Java The Complete Reference, Eleventh Edition (Herbert Schildt)
-
-  - <a href = "https://www.amazon.com.br/Spring-Action-Sixth-Craig-Walls/dp/1617297577/ref=asc_df_1617297577/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=6640713608588846521&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102327&hvtargid=pla-1222916079344&psc=1">></a> Spring in Action, Sixth Edition (Craig Walls)
-  
-   - <a href = "https://www.amazon.com/Full-Stack-Development-Spring-Boot-Angular/dp/180324321X">></a> Spring Boot and Angular (Devlin Basilan Duldulao, Seiji Ralph Villafranca)
- 
-  - <a href = "https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/?tag=googleshopp00-20&linkCode=df0&hvadid=379787788238&hvpos=&hvnetw=g&hvrand=12907842868347755049&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102327&hvtargid=pla-435472505264&psc=1">></a> Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin, Michael C. Feathers, Timothy R. Ottinger)
-  
-- ✨ Jogar video games
-- ✨ Melhor pianista da minha rua 😊
-
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
