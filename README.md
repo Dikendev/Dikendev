@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </br>
 
-<h3> "Sempre Aprendendo novas tecnologias e constantemente explorando novas linguagens. Atualmente, estou imerso no aprendizado de Rust e c++. Além disso, estou estudando e buscando entender mais sobre linguagens de programação de baixo nível." <3 </h3> 
+<h3> "Sempre aprendendo novas tecnologias e constantemente explorando novas linguagens. Atualmente, estou imerso no aprendizado de Rust e c++. Além disso, estou estudando e buscando entender mais sobre linguagens de programação de baixo nível." <3 </h3> 
   
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
