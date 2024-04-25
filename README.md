@@ -57,27 +57,7 @@
         </a>
         <br>Angular
      </td>
-     <td align="center" width="96">
-        <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="ReactJs" />
-        </a>
-        <br>ReactJs
-     </td>
-     <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript ES6"/>
-        </a>
-        <br>JavaScript
-     </td>
-  </tr>
-  <tr>
-     <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript"/>
-        </a>
-        <br>TypeScript
-     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
           <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
         </a>
@@ -89,9 +69,7 @@
         </a>  
         <br>Sass
      </td>
-  </tr>
-  <tr aligh="right" >
-     <td align="center" width="96">
+    <td align="center" width="96">
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML 5" />
         </a>
@@ -102,8 +80,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" alt="Css 3" />
         </a>
         <br>Css 3
-     </td>
-     <td>
      </td>
   </tr>
 </table>
