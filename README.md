@@ -103,7 +103,7 @@
      </td>
      <td align="center" width="96">
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="NestJs" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"width="50" height="50" alt="NestJs" />
         </a>
         <br>NestJs
      </td>
