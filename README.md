@@ -23,6 +23,31 @@
 <div align="center">
 
 
+<h2> <strong> Languages </strong></h2>
+<table>
+    <tr>
+      <td align="center" width="96">
+          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript"/>
+          </a>
+          <br>TypeScript
+      </td>
+      <td align="center" width="96">
+          <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+          </a>
+          <br>Python
+      </td>
+      <td align="center" width="96">
+          <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> 
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
+          </a>
+      <br>Java
+     </td>
+    </tr>
+</table>
+
+
 <h2> <strong> 📚 Front-End </strong></h2>
 <table>
   <tr>
