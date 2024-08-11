@@ -6,6 +6,7 @@
 </br>
 
 <h3> Just a programmer </h3> 
+<h3> Escrevo regularmente no meu blog sobre programação: <a href="https://medium.com/@diken.dev" > Aqui</a><h3>
   
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
