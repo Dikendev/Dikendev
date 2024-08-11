@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </br>
 
-<h3> Just a programmer </h3> 
+<h3>Just a programming things </h3> 
+<h3>Open Source developer enthusiast<h3>
 <h3> Escrevo regularmente no meu blog sobre programação: <a href="https://medium.com/@diken.dev" > Aqui</a><h3>
   
 <h3 align="center">Conecte-se comigo:</h3>
