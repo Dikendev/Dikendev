@@ -5,9 +5,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </br>
 
-<h3>Just programming things </h3> 
-<h3>Open Source developer enthusiast<h3>
-<h3> Escrevo regularmente no meu blog sobre programação: <a href="https://medium.com/@diken.dev" > Aqui</a><h3>
+<h3>Just coding </h3> 
+<h2>Open Source developer enthusiast<h3>
+ 
+
+ <li>
+     Projeto open source de benchmarking, que analisa o desempenho de algoritmos com métricas tempo de execução e gráficos comparando vários metodos entre si. <a href="https://www.npmjs.com/package/npm-benchmark-ts">link</a>
+  </li>
+
+   <li>
+   Escrevo regularmente no meu blog sobre programação. <a href="https://medium.com/@diken.dev">link</a><h3>
+  </li>
+
+  <h3> 
   
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
