@@ -9,16 +9,14 @@
 <h2>Open Source developer enthusiast<h3>
  
 
- <li>
-     Projeto open source de benchmarking, que analisa o desempenho de algoritmos com métricas tempo de execução e gráficos comparando vários metodos entre si. <a href="https://www.npmjs.com/package/npm-benchmark-ts">link</a>
-  </li>
+<li>
+ Projeto open source de benchmarking que avalia o desempenho de algoritmos, fornecendo métricas detalhadas de tempo de execução e gráficos comparativos entre diferentes métodos. <a href="https://www.npmjs.com/package/npm-benchmark-ts">link</a>
+</li>
 
-   <li>
-   Escrevo regularmente no meu blog sobre programação. <a href="https://medium.com/@diken.dev">link</a><h3>
-  </li>
+<li>
+ Escrevo regularmente no meu blog sobre programação. <a href="https://medium.com/@diken.dev">link</a><h3>
+</li>
 
-  <h3> 
-  
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
   <a href="https://www.instagram.com/diken.developer/" target="blank">
