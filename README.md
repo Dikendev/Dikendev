@@ -60,7 +60,13 @@
 
 <h2> <strong> 📚 Front-End </strong></h2>
 <table>
-  <tr>
+ <tr>
+   <td align="center" width="96">
+        <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="ReactJs" />
+        </a>
+        <br>ReactJs
+     </td>  
      <td align="center" width="96">
         <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
@@ -73,6 +79,8 @@
         </a>
         <br>Bootstrap
      </td>
+ </tr>
+  <tr>
      <td align="center" width="96">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
           <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass" />
