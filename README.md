@@ -73,20 +73,8 @@
         </a>
         <br>Angular
      </td>
-    <td align="center" width="96">
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="bootstrap" />
-        </a>
-        <br>Bootstrap
-     </td>
  </tr>
   <tr>
-     <td align="center" width="96">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" alt="Sass" />
-        </a>  
-        <br>Sass
-     </td>
     <td align="center" width="96">
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML 5" />
